@@ -1,0 +1,10 @@
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\bin\Debug\projektGrafika.exe.config
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\bin\Debug\projektGrafika.exe
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\bin\Debug\projektGrafika.pdb
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\obj\Debug\GrafikaProj2.csprojAssemblyReference.cache
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\obj\Debug\projektGrafika.Form1.resources
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\obj\Debug\projektGrafika.Properties.Resources.resources
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\obj\Debug\GrafikaProj2.csproj.GenerateResource.cache
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\obj\Debug\GrafikaProj2.csproj.CoreCompileInputs.cache
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\obj\Debug\projektGrafika.exe
+C:\Users\KrzysztofBrzoska\Desktop\Scene3d\projektGrafika\obj\Debug\projektGrafika.pdb
